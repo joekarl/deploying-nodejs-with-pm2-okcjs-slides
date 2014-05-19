@@ -1,0 +1,23 @@
+{
+  "name": "deploying-nodejs-with-pm2-okcjs-slides",
+  "version": "0.0.0",
+  "description": "Slides for OKCjs Lightning Talks 1-21-2014",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joekarl/deploying-nodejs-with-pm2-okcjs-slides.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joekarl/deploying-nodejs-with-pm2-okcjs-slides/issues"
+  },
+  "homepage": "https://github.com/joekarl/deploying-nodejs-with-pm2-okcjs-slides"
+}
